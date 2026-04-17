@@ -98,3 +98,7 @@ It demonstrates:
 - Ability to implement models from scratch
 - Clear progression toward more advanced architectures
 
+
+Implemented by Anant V. Palve
+Based on Andrej Karpathy's 'Let's build GPT: from scratch, in code, spelled out.' YouTube video.
+
